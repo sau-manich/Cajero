@@ -1,0 +1,6 @@
+c:\users\acer\documents\visual studio 2012\Projects\cajeroAUTOMATICO\cajeroAUTOMATICO\bin\Debug\cajeroAUTOMATICO.exe.config
+c:\users\acer\documents\visual studio 2012\Projects\cajeroAUTOMATICO\cajeroAUTOMATICO\obj\Debug\cajeroAUTOMATICO.csprojResolveAssemblyReference.cache
+c:\users\acer\documents\visual studio 2012\Projects\cajeroAUTOMATICO\cajeroAUTOMATICO\bin\Debug\cajeroAUTOMATICO.exe
+c:\users\acer\documents\visual studio 2012\Projects\cajeroAUTOMATICO\cajeroAUTOMATICO\bin\Debug\cajeroAUTOMATICO.pdb
+c:\users\acer\documents\visual studio 2012\Projects\cajeroAUTOMATICO\cajeroAUTOMATICO\obj\Debug\cajeroAUTOMATICO.exe
+c:\users\acer\documents\visual studio 2012\Projects\cajeroAUTOMATICO\cajeroAUTOMATICO\obj\Debug\cajeroAUTOMATICO.pdb
